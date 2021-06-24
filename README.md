@@ -8,6 +8,11 @@ and play them in your browser using the HTML5 Audio Element.
 
 No static files required. (Besides the source, of course!)
 
+Update
+----
+
+Code has been optimized by David Clews (http://davidclews.com) to reduce filesize and a few bugs where removed, original size 11,524 bytes optimized size 5,360 bytes
+
 Demo
 ----
 
