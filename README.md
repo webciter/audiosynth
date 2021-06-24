@@ -25,7 +25,7 @@ Installation
 Assuming audiosynth.js is in your current directory, import package using:
 
 ```html
-<script src="audiosynth.js"></script>
+<script src="audiosynth.min.js"></script>
 ```
 
 
